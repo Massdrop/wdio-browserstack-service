@@ -44,8 +44,8 @@
     "gulp-buble": "^0.7.0",
     "gulp-cli": "^1.2.2",
     "mocha": "^3.5.3",
-    "prettier": "^1.7.4",
-    "sinon": "^4.0.0"
+    "sinon": "^4.0.0",
+    "prettier": "^1.7.4"
   },
   "prettier": {
     "singleQuote": true
